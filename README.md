@@ -7,7 +7,7 @@ This calculator performs basic arithmetic operations such as Addition , Subtract
    ```bash
    git clone https://github.com/devilghost404/Calculator.git
 
-##🌍 Live Demo
+#🌍 Live Demo
 [click here to use the calculator](https://github.com/devilghost404/Calculator/)
 
 
