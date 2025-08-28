@@ -1,3 +1,7 @@
 # Calculator
 A simple calculator built using HTML, CSS and JAVASCRIPT.
 This calculator performs basic arithmetic operations such as Addition , Subtraction, Multiplication and Division.
+
+## How to Use
+1. Clone this repository
+   '''bash
