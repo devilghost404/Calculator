@@ -4,6 +4,6 @@ This calculator performs basic arithmetic operations such as Addition , Subtract
 
 ## How to Use
 1. Clone this repository:
-   '''bash
+   ```bash
    git clone
 https://github.com/devilghost404/Calculator.git   
