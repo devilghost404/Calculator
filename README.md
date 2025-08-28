@@ -1,2 +1,3 @@
 # Calculator
-This is a small project. made with html, css and java script.
+A simple calculator built using HTML, CSS and JAVASCRIPT.
+This calculator performs basic arithmetic operations such as Addition , Subtraction, Multiplication and Division.
