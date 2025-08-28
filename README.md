@@ -10,5 +10,8 @@ This calculator performs basic arithmetic operations such as Addition , Subtract
 ### 🌍Live Demo
 [click here to use the calculator](https://devilghost404.github.io/Calculator/)
 
+#### Contribution
+If you want to contribute feel free.
+
 
    
